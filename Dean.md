@@ -60,4 +60,5 @@ footer: "Dean, the Heart and Soul of EPSAM Data :heart:"
 
 ### Kanhaiya Kumar Says:
 ####  A marvelous Captain. You are Superhero !!!
-##### It will be very difficult to fill the void left by you here at EPSAM! you seems to be made of infinite energy. We felt consistently motivated by your long visionary ideas,great architecture skills and amicable attitude. You’re a true leader and we are so fortunate and grateful to have a boss like you. Hope we work together soon in future. Wish you all the very best for your new roles and assignments. 
+
+##### It will be very difficult to fill the void left by you here at EPSAM ! You seems to be made of infinite energy . We felt consistently motivated by your long visionary ideas,great architecture skills and amicable attitude. You’re a true leader and we are so fortunate and grateful to have a boss like you. Hope we work together soon in future. Wish you all the very best for your new roles and assignments. 
