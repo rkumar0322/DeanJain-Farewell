@@ -65,6 +65,11 @@ footer: "Dean, the Heart and Soul of EPSAM Data :heart:"
 #### Poornima Says:
 #### Dean: The Great Leader and Motivator
 ##### A Dedicated and an Inspiring Leader from whom we had a wonderful learning experience through this BLAZE platform. 
-#### Thank you for all the support and guidance. All the best for your future endeavours...
+
+---
+---
+
+#### Vishnu Says:
+##### Thank you for being a guiding light for us. You have taught us the importance of striving for excellence every step of the way. I wish you all the best for your future endeavors
 ---
 :heart::purple_heart::green_heart::blue_heart:
