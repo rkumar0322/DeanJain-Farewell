@@ -33,7 +33,7 @@ footer: "Dean, the Heart and Soul of EPSAM Data :heart:"
 
 <style scoped> { font-size:24px;}</style>
 ---
-![bg 90% opacity ](https://previews.123rf.com/images/drawlab19/drawlab191610/drawlab19161000031/67735421-vektor-hand-gezeichnete-meisterskizze-sportler-oder-fu%C3%9Fballspieler-der-in-der-hand-mit-siegescup-auf.jpg)
+![bg 90% opacity blur](https://previews.123rf.com/images/drawlab19/drawlab191610/drawlab19161000031/67735421-vektor-hand-gezeichnete-meisterskizze-sportler-oder-fu%C3%9Fballspieler-der-in-der-hand-mit-siegescup-auf.jpg)
 
 ### Rahul Kumar Says:
 #### Dean: The Team Visionary
@@ -62,6 +62,9 @@ footer: "Dean, the Heart and Soul of EPSAM Data :heart:"
 ---
 ### Atheeth Says: 
 #### You generate a different electricity among the team. Love the way you carry the whole team together and make everyone feel comfortable . It is a blessing to know that we could have such a strong bond with someone who is so senior to us , where its more like friendship with lot of mutual respect. There is so much to learn from you. All the best for your new journey.
+---
+### Bishwa Says:
+#### Hey Dean, I am really glad to had an opportunity for working with you. All the Best for your future endeavours. We are really going to miss you here.
 ---
 
 #### Poornima Says:
@@ -127,6 +130,16 @@ footer: "Dean, the Heart and Soul of EPSAM Data :heart:"
 #### I ’m so happy for you ,Congratulations on your new role.
 #### You are the backbone of these projects.
 ---
+### Aslam Says:
+
+#### I wanted to take a moment to express my heartfelt gratitude for all the guidance and support you've provided me during my time at AMEX. 
+#### I am grateful for the knowledge and skills that I've gained through your mentorship. Specifically, I appreciate the time time you took to provide me with feedback on my work and to answer my question, even when you were busy. 
+#### your dedication to excellence has inspired me to push my self further in my own work.
+---
+### Priyanka Says:
+
+#### Dean, you are such an amazing person with so much wide and deep knowledge on all technologies, we all will surely miss your presence. I wish I had worked more with you. All the best for your upcoming future Cheers!!
+---
 ### Kapil Says: 
 #### Dean is a master techie. He is on top of all the architecture and has a keen insight on end to end flow. His grip on the design is spot on and he thinks beyond the box.
 #### Deans absence will be felt greatly.
@@ -143,6 +156,17 @@ footer: "Dean, the Heart and Soul of EPSAM Data :heart:"
 ### John Says:
 
 #### Thank you Dean for all your contributions to the Blaze team! The experience and insight you brought was truly invaluable to the team. Your commitment to excellence and ability to foster a collaborative environment will be missed and I wish you well in this new endeavor!
+---
+### Ashish Says:
+#### Dean, Everyone talks about your Tech stack but I really want to call out your People stack! You do have a knack of getting ppl together and thats what brings out the best in the team. A true leader with a Tech engine - a rare breed. All the best for your new role
+---
+### Arun Says:
+###### Each of us knows Dean for his passion on technology, driving innovation, solid design principles, grooming future engineers, cross cutting collaboration and the list goes on.  
+###### Dean is known for dedication, work ethical, strong advocate for reusing and sharing the best practice and his bias for action helped us to build a robust, enterprise grade data and integration Blaze and DDAC Platform.
+###### D. ->. Dedicated and Dependable
+###### E  Ethics
+###### A. -> Astonishing Architect
+###### N -> Nexus (connecting technology to business)
 ---
 ![bg 50% opacity blur](./assets/savvy.jpg)
 
