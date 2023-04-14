@@ -77,8 +77,28 @@ footer: "Dean, the Heart and Soul of EPSAM Data :heart:"
 ##### You have been an inspiration to me. I have learnt a lot from you. Thank you for being an amazing leader and a support system. All the best for your new role.
 
 ---
-#### Please first copy everything from this line to the next one and paste it underneath the line below. Write your message here,
+![bg 80% opacity blur](http://www.selfvirtue.com/wp-content/uploads/2017/03/superhero-costumes-for-men.jpg)
+
+### Kanhaiya Kumar Says:
+####  A marvelous Captain. You are Superhero !!!
+
+##### It will be very difficult to fill the void left by you here at EPSAM ! You seems to be made of infinite energy . We felt consistently motivated by your long visionary ideas,great architecture skills and amicable attitude. You’re a true leader and we are so fortunate and grateful to have a boss like you. Hope we work together soon in future. Wish you all the very best for your new roles and assignments.
 ---
+### Vishnu Says:
+##### Thank you for being a guiding light for us. You have taught us the importance of striving for excellence every step of the way. I wish you all the best for your future endeavors
+---
+![bg blur](./assets/bgimg.png)
+
+### Rahul R Says:
+#### Dean: _A Virtuoso in software engineering and a Great Leader_
+##### :pray: Thank you for playing an integral role in the projects I have worked in!
+##### :bow: I'm extremely grateful for the insights you provided us, about writing & maintaining enterprise grade software.
+##### I've learnt a lot from your code reviews and System Design sessions! :100:
+#####  I hope that we can work together soon !
+##### Wishing you all the best for your feature endeavours :+1:
+
+<!-- _class: lead -->
+<style scoped> { font-size:24px; font:black;}</style>
 :heart::purple_heart::green_heart::blue_heart:
 
 ---
