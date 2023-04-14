@@ -96,9 +96,18 @@ footer: "Dean, the Heart and Soul of EPSAM Data :heart:"
 ##### I've learnt a lot from your code reviews and System Design sessions! :100:
 #####  I hope that we can work together soon !
 ##### Wishing you all the best for your feature endeavours :+1:
-
 <!-- _class: lead -->
 <style scoped> { font-size:24px; font:black;}</style>
+---
+### Kapil Says: 
+#### Dean is a master techie. He is on top of all the architecture and has a keen insight on end to end flow. His grip on the design is spot on and he thinks beyond the box.
+#### Deans absence will be felt greatly.
+---
+### Radha Says:
+
+#### Dean is passionate, energetic leader, and bring others along to leverage technology as an enabler for solving complex problems
+---
+### Thank you Dean for everything you have done for EPSAM!! The EPSAM Platform has been transformed thanks to your innovative and kind spirit
 :heart::purple_heart::green_heart::blue_heart:
 
 ---
