@@ -68,3 +68,8 @@ footer: "Dean, the Heart and Soul of EPSAM Data :heart:"
 #### Thank you for all the support and guidance. All the best for your future endeavours...
 ---
 :heart::purple_heart::green_heart::blue_heart:
+
+---
+### Mayank says:
+#### Dean: "Cornerstone" of Blaze
+##### Truly glad to have had the opportunity to work with you! Thank you and wish you all the best for your new journey.
