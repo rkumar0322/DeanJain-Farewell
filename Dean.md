@@ -7,7 +7,7 @@ size: 16:9
 paginate: true
 _paginate: false
 header: ":copyright: THANK YOU"
-footer: "Dean, the Heart and Soul of EPSAM Data :heart:"
+footer: "Dean, the Heart and Soul of Sales and Marketing Engineering and Data :heart:"
 ---
 ![bg 50%](https://avatars.githubusercontent.com/deanjain)
 
@@ -96,7 +96,7 @@ footer: "Dean, the Heart and Soul of EPSAM Data :heart:"
 ### Kanhaiya Kumar Says:
 ####  A marvelous Captain. You are Superhero !!!
 
-##### It will be very difficult to fill the void left by you here at EPSAM ! You seems to be made of infinite energy . We felt consistently motivated by your long visionary ideas,great architecture skills and amicable attitude. You’re a true leader and we are so fortunate and grateful to have a boss like you. Hope we work together soon in future. Wish you all the very best for your new roles and assignments.
+##### It will be very difficult to fill the void left by you here at Sales and Marketing Engineering ! You seems to be made of infinite energy . We felt consistently motivated by your long visionary ideas,great architecture skills and amicable attitude. You’re a true leader and we are so fortunate and grateful to have a boss like you. Hope we work together soon in future. Wish you all the very best for your new roles and assignments.
 ---
 ### Vishnu Says:
 ##### Thank you for being a guiding light for us. You have taught us the importance of striving for excellence every step of the way. I wish you all the best for your future endeavors
@@ -170,5 +170,5 @@ footer: "Dean, the Heart and Soul of EPSAM Data :heart:"
 ---
 ![bg 50% opacity blur](./assets/savvy.jpg)
 
-### Thank you Dean for everything you have done for EPSAM!! The EPSAM Platform has been transformed thanks to your innovative and kind spirit and we are forever grateful for making us better engineers and better people!! All the Best in the future!!
+### Thank you Dean for everything you have done for Sales and Marketing Engineering!! The Sales and Marketing Engineering Platform has been transformed thanks to your innovative and kind spirit and we are forever grateful for making us better engineers and better people!! All the Best in the future!!
 :heart::purple_heart::green_heart::blue_heart:
