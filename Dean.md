@@ -111,3 +111,6 @@ footer: "Dean, the Heart and Soul of EPSAM Data :heart:"
 :heart::purple_heart::green_heart::blue_heart:
 
 ---
+### Vivek Says:
+
+#### Hard to imagine what this team looks like without you. You have been a great mentor and friend and under your guidance I've grown and learned a lot. Thanks for all the support over the past 4 years and I hope to work with you again as you won't be going far. All the best for your new role!
