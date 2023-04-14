@@ -27,7 +27,7 @@ footer: "Dean, the Heart and Soul of Sales and Marketing Engineering and Data :h
 
 ### Sarmin Says:
 #### Dean: The Best Mentor 
-##### You are irreplaceable Dean!! Thank you for being a real inspiration to us.Your contribution and guidance formed each one of us and whole Blaze platform.It is our privilege to work under you. All the best with your next challenge. We will Miss you Dean. 
+##### You are irreplaceable Dean!! Thank you for being a real inspiration to us.Your contribution and guidance formed each one of us and whole Sales and Marketing platform.It is our privilege to work under you. All the best with your next challenge. We will Miss you Dean. 
 
 <!-- _class: lead -->
 
@@ -69,12 +69,12 @@ footer: "Dean, the Heart and Soul of Sales and Marketing Engineering and Data :h
 
 #### Poornima Says:
 #### Dean: The Great Leader and Motivator
-##### A Dedicated and an Inspiring Leader from whom we had a wonderful learning experience through this BLAZE platform. 
+##### A Dedicated and an Inspiring Leader from whom we had a wonderful learning experience through this Sales and Marketing platform. 
 #### Thank you for all the support and guidance. All the best for your future endeavours...
 ---
 
 ### Mayank says:
-#### Dean: "Cornerstone" of Blaze
+#### Dean: "Cornerstone" of Sales and Marketing
 ##### Truly glad to have had the opportunity to work with you! Thank you and wish you all the best for your new journey.
 ---
 ### Sheet says: 
@@ -155,14 +155,14 @@ footer: "Dean, the Heart and Soul of Sales and Marketing Engineering and Data :h
 ---
 ### John Says:
 
-#### Thank you Dean for all your contributions to the Blaze team! The experience and insight you brought was truly invaluable to the team. Your commitment to excellence and ability to foster a collaborative environment will be missed and I wish you well in this new endeavor!
+#### Thank you Dean for all your contributions to the Sales and Marketing team! The experience and insight you brought was truly invaluable to the team. Your commitment to excellence and ability to foster a collaborative environment will be missed and I wish you well in this new endeavor!
 ---
 ### Ashish Says:
 #### Dean, Everyone talks about your Tech stack but I really want to call out your People stack! You do have a knack of getting ppl together and thats what brings out the best in the team. A true leader with a Tech engine - a rare breed. All the best for your new role
 ---
 ### Arun Says:
 ###### Each of us knows Dean for his passion on technology, driving innovation, solid design principles, grooming future engineers, cross cutting collaboration and the list goes on.  
-###### Dean is known for dedication, work ethical, strong advocate for reusing and sharing the best practice and his bias for action helped us to build a robust, enterprise grade data and integration Blaze and DDAC Platform.
+###### Dean is known for dedication, work ethical, strong advocate for reusing and sharing the best practice and his bias for action helped us to build a robust, enterprise grade data and integration Sales and Marketing Platform.
 ###### D. ->. Dedicated and Dependable
 ###### E  Ethics
 ###### A. -> Astonishing Architect
