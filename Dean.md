@@ -49,6 +49,18 @@ footer: "Dean, the Heart and Soul of EPSAM Data :heart:"
 ##### Your energy and bright ideas made work so much more enjoyable! Thank you for being a great leader, you are really like a friend for us. Thank you for all the support and guidance, wish you good time ahead.
 
 ---
+
+![image](https://user-images.githubusercontent.com/12379667/231944788-1862115a-b667-4274-9d9a-c30cd931697c.png)
+
+### Tamim Says:
+#### A Great Leader and Technical Architect... Dean Jain    
+##### These four years working with you was an amazing learning experience for me.You tought us how to excel as a team,remain motivated and give our best.You are a role model of a Leader! 
+##### It would be a pleasure working with you again!Wish you all the best for your feature endeavours... 
+
+<!-- _class: lead -->
+<style scoped> { font-size:24px;}</style>
+---
+
 #### Please first copy everything from this line to the next one and paste it underneath the line below. Write your message here, 
 ---
 :heart::purple_heart::green_heart::blue_heart:
