@@ -37,7 +37,7 @@ footer: "Dean, the Heart and Soul of EPSAM Data :heart:"
 
 ### Rahul Kumar Says:
 #### Dean: The Team Visionary
-##### I credit a lot of the growth I felt as an engineer to you. Learned a lot of new skills with NodeJS, Go, Systems Design, And Overall understanding of Spring, Kafka, and GraphQL. 
+##### I credit a lot of the growth I felt as an engineer to you. Learned a lot of new skills with NodeJS, Go, Systems Design, And Overall understanding of Spring, Kafka, and GraphQL. As a fresh grad, you made me into someone who has a lot of skills, and I am indebted to your kind and patient leadership. Good luck in the future!!
 
 <!-- _class: lead -->
 <style scoped> { font-size:24px;}</style>
@@ -60,6 +60,9 @@ footer: "Dean, the Heart and Soul of EPSAM Data :heart:"
 <!-- _class: lead -->
 <style scoped> { font-size:24px;}</style>
 ---
+### Atheeth Says: 
+#### You generate a different electricity among the team. Love the way you carry the whole team together and make everyone feel comfortable . It is a blessing to know that we could have such a strong bond with someone who is so senior to us , where its more like friendship with lot of mutual respect. There is so much to learn from you. All the best for your new journey.
+---
 
 #### Poornima Says:
 #### Dean: The Great Leader and Motivator
@@ -70,6 +73,10 @@ footer: "Dean, the Heart and Soul of EPSAM Data :heart:"
 ### Mayank says:
 #### Dean: "Cornerstone" of Blaze
 ##### Truly glad to have had the opportunity to work with you! Thank you and wish you all the best for your new journey.
+---
+### Vivek Says:
+
+#### Hard to imagine what this team looks like without you. You have been a great mentor and friend and under your guidance I've grown and learned a lot. Thanks for all the support over the past 4 years and I hope to work with you again as you won't be going far. All the best for your new role!
 
 ---
 ### Ankitha Says:
@@ -109,8 +116,3 @@ footer: "Dean, the Heart and Soul of EPSAM Data :heart:"
 ---
 ### Thank you Dean for everything you have done for EPSAM!! The EPSAM Platform has been transformed thanks to your innovative and kind spirit
 :heart::purple_heart::green_heart::blue_heart:
-
----
-### Vivek Says:
-
-#### Hard to imagine what this team looks like without you. You have been a great mentor and friend and under your guidance I've grown and learned a lot. Thanks for all the support over the past 4 years and I hope to work with you again as you won't be going far. All the best for your new role!
