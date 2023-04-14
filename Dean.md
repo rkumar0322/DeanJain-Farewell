@@ -62,6 +62,9 @@ footer: "Dean, the Heart and Soul of EPSAM Data :heart:"
 <style scoped> { font-size:24px;}</style>
 ---
 
-#### Please first copy everything from this line to the next one and paste it underneath the line below. Write your message here, 
+#### Poornima Says:
+#### Dean: The Great Leader and Motivator
+##### A Dedicated and an Inspiring Leader from whom we had a wonderful learning experience through this BLAZE platform. 
+#### Thank you for all the support and guidance. All the best for your future endeavours...
 ---
 :heart::purple_heart::green_heart::blue_heart:
