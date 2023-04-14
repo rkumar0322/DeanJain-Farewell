@@ -55,7 +55,7 @@ footer: "Dean, the Heart and Soul of EPSAM Data :heart:"
 
 ### Tamim Says:
 #### A Great Leader and Technical Architect... Dean Jain    
-##### These four years working with you was an amazing learning experience for me.You tought us how to excel as a team,remain motivated and give our best.You are a role model of a Leader! 
+##### These four years working with you was an amazing learning experience for me.You taught us how to excel as a team,remain motivated and give our best.You are a role model of a Leader! 
 ##### It would be a pleasure working with you again!Wish you all the best for your feature endeavours... 
 
 <!-- _class: lead -->
@@ -66,5 +66,27 @@ footer: "Dean, the Heart and Soul of EPSAM Data :heart:"
 #### Dean: The Great Leader and Motivator
 ##### A Dedicated and an Inspiring Leader from whom we had a wonderful learning experience through this BLAZE platform. 
 #### Thank you for all the support and guidance. All the best for your future endeavours...
+
+<!-- _class: lead -->
+<style scoped> { font-size:24px;}</style>
 ---
+
+![bg blur](./assets/bgimg.png)
+
+### Rahul R Says:
+#### Dean: _A Virtuoso in software engineering and a Great Leader_
+##### :pray: Thank you for playing an integral role in the projects I have worked in!
+##### :bow: I'm extremely grateful for the insights you provided us, about writing & maintaining enterprise grade software.
+##### I've learnt a lot from your code reviews and System Design sessions! :100:
+#####  I hope that we can work together soon !
+##### Wishing you all the best for your feature endeavours :+1:
+
+<!-- _class: lead -->
+<style scoped> { font-size:24px; font:black;}</style>
+---
+
+#### Please first copy everything from this line to the next one and paste it underneath the line below. Write your message here, 
 :heart::purple_heart::green_heart::blue_heart:
+
+<!-- _class: lead -->
+<style scoped> { font-size:24px;}</style>
