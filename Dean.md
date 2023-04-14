@@ -43,8 +43,7 @@ footer: "Dean, the Heart and Soul of EPSAM Data :heart:"
 <style scoped> { font-size:24px;}</style>
 ---
 
-<img width="547" alt="Dean's_Farewell" src="https://user-images.githubusercontent.com/15997633/231724264-92b19e90-ddbb-42e3-9ea2-7452e775c852.png">
-
+![bg 50% opacity blur](https://user-images.githubusercontent.com/15997633/231724264-92b19e90-ddbb-42e3-9ea2-7452e775c852.png)
 ### Param Says:
 #### Dean: A true leader
 ##### Your energy and bright ideas made work so much more enjoyable! Thank you for being a great leader, you are really like a friend for us. Thank you for all the support and guidance, wish you good time ahead.
@@ -67,9 +66,19 @@ footer: "Dean, the Heart and Soul of EPSAM Data :heart:"
 ##### A Dedicated and an Inspiring Leader from whom we had a wonderful learning experience through this BLAZE platform. 
 #### Thank you for all the support and guidance. All the best for your future endeavours...
 ---
-:heart::purple_heart::green_heart::blue_heart:
 
----
 ### Mayank says:
 #### Dean: "Cornerstone" of Blaze
 ##### Truly glad to have had the opportunity to work with you! Thank you and wish you all the best for your new journey.
+
+---
+### Ankitha Says:
+#### Dean: An inspiration
+##### You have been an inspiration to me. I have learnt a lot from you. Thank you for being an amazing leader and a support system. All the best for your new role.
+
+---
+#### Please first copy everything from this line to the next one and paste it underneath the line below. Write your message here,
+---
+:heart::purple_heart::green_heart::blue_heart:
+
+---
