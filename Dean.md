@@ -49,6 +49,11 @@ footer: "Dean, the Heart and Soul of EPSAM Data :heart:"
 ##### Your energy and bright ideas made work so much more enjoyable! Thank you for being a great leader, you are really like a friend for us. Thank you for all the support and guidance, wish you good time ahead.
 
 ---
+### Ankitha Says:
+#### Dean: An inspiration
+##### You have been an inspiration to me. I have learnt a lot from you. Thank you for being an amazing leader and a support system. All the best for your new role. 
+
+---
 #### Please first copy everything from this line to the next one and paste it underneath the line below. Write your message here, 
 ---
 :heart::purple_heart::green_heart::blue_heart:
