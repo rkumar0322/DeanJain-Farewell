@@ -74,6 +74,10 @@ footer: "Dean, the Heart and Soul of EPSAM Data :heart:"
 #### Dean: "Cornerstone" of Blaze
 ##### Truly glad to have had the opportunity to work with you! Thank you and wish you all the best for your new journey.
 ---
+### Sheet says: 
+#### Dean is "The ROCK".. not because he is Shredded :D but because he is someone that the team can always depend on.
+#### I have known Dean for a long time now and he is the biggest techie I have ever come across. Dean's passion towards technology and innovation are unparalleled and I have enjoyed being part of many of critical initiative that Dean envisioned. You will be thoroughly missed, but not spared :), we will keep on bugging you while you bring innovation to Loyalty. All the best.
+---
 ### Vivek Says:
 
 #### Hard to imagine what this team looks like without you. You have been a great mentor and friend and under your guidance I've grown and learned a lot. Thanks for all the support over the past 4 years and I hope to work with you again as you won't be going far. All the best for your new role!
@@ -94,6 +98,13 @@ footer: "Dean, the Heart and Soul of EPSAM Data :heart:"
 ### Vishnu Says:
 ##### Thank you for being a guiding light for us. You have taught us the importance of striving for excellence every step of the way. I wish you all the best for your future endeavors
 ---
+### Kedaresh Says:
+
+#### As his name represents Dean` he is really dean of all of us :slightly_smiling_face:
+#### He is a ocean of knowledge just ask him anything he has a answer for it...
+#### You are a inspiration to me.
+#### wish you all the best for your future endeavors
+---
 ![bg blur](./assets/bgimg.png)
 
 ### Rahul R Says:
@@ -106,6 +117,16 @@ footer: "Dean, the Heart and Soul of EPSAM Data :heart:"
 <!-- _class: lead -->
 <style scoped> { font-size:24px; font:black;}</style>
 ---
+### Jhansi Says:
+
+#### My Words about Dean
+#### Your energy and bright Ideas made me work so much
+#### Thank you for your great leadership .
+#### Really Inspiration to me .
+#### Thank you so much for everything you have done for me .
+#### I ’m so happy for you ,Congratulations on your new role.
+#### You are the backbone of these projects.
+---
 ### Kapil Says: 
 #### Dean is a master techie. He is on top of all the architecture and has a keen insight on end to end flow. His grip on the design is spot on and he thinks beyond the box.
 #### Deans absence will be felt greatly.
@@ -114,5 +135,16 @@ footer: "Dean, the Heart and Soul of EPSAM Data :heart:"
 
 #### Dean is passionate, energetic leader, and bring others along to leverage technology as an enabler for solving complex problems
 ---
-### Thank you Dean for everything you have done for EPSAM!! The EPSAM Platform has been transformed thanks to your innovative and kind spirit
+### Rathin Says:
+
+#### You will be terribly missed, Dean. Your technical acumen, strong sense of collaboration and thought leadership helped during Conceptualization , Design to Execution phases of every crucial Implementation.
+#### Big Shoes to fill, but I’m very happy and excited for your move to a very exciting space!! All the Best!!
+---
+### John Says:
+
+#### Thank you Dean for all your contributions to the Blaze team! The experience and insight you brought was truly invaluable to the team. Your commitment to excellence and ability to foster a collaborative environment will be missed and I wish you well in this new endeavor!
+---
+![bg 50% opacity blur](./assets/savvy.jpg)
+
+### Thank you Dean for everything you have done for EPSAM!! The EPSAM Platform has been transformed thanks to your innovative and kind spirit and we are forever grateful for making us better engineers and better people!! All the Best in the future!!
 :heart::purple_heart::green_heart::blue_heart:
