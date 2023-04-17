@@ -161,12 +161,12 @@ footer: "Dean, the Heart and Soul of Sales and Marketing Engineering and Data :h
 #### Dean, Everyone talks about your Tech stack but I really want to call out your People stack! You do have a knack of getting ppl together and thats what brings out the best in the team. A true leader with a Tech engine - a rare breed. All the best for your new role
 ---
 ### Arun Says:
-####### Each of us knows Dean for his passion on technology, driving innovation, solid design principles, grooming future engineers, cross cutting collaboration and the list goes on.  
-####### Dean is known for dedication, work ethical, strong advocate for reusing and sharing the best practice and his bias for action helped us to build a robust, enterprise grade data and integration Sales and Marketing Platform.
-####### D. ->. Dedicated and Dependable
-####### E  Ethics
-####### A. -> Astonishing Architect
-####### N -> Nexus (connecting technology to business)
+######## Each of us knows Dean for his passion on technology, driving innovation, solid design principles, grooming future engineers, cross cutting collaboration and the list goes on.  
+######## Dean is known for dedication, work ethical, strong advocate for reusing and sharing the best practice and his bias for action helped us to build a robust, enterprise grade data and integration Sales and Marketing Platform.
+######## D. ->. Dedicated and Dependable
+######## E  Ethics
+######## A. -> Astonishing Architect
+######## N -> Nexus (connecting technology to business)
 ---
 ![bg 50% opacity blur](./assets/savvy.jpg)
 
