@@ -168,6 +168,13 @@ footer: "Dean, the Heart and Soul of Sales and Marketing Engineering and Data :h
 ###### A. -> Astonishing Architect
 ###### N -> Nexus (connecting technology to business)
 ---
+![bg 90% opacity blur](./assets/leadership-teamwork.jpg)
+
+### Mohammad Mamoon Mallick Says:
+#### Swadhin (Dean) Jain: _A great leader and great-hearted_
+#### I missed the opportunity to learn from a great person. As you move on to new opportunities, I wanted to take a moment to express my appreciation for all the hard work you have put in during your time here. Your expertise and dedication have made a lasting impact on our team, and you will be greatly missed.
+---
+
 ![bg 50% opacity blur](./assets/savvy.jpg)
 
 ### Thank you Dean for everything you have done for Sales and Marketing Engineering!! The Sales and Marketing Engineering Platform has been transformed thanks to your innovative and kind spirit and we are forever grateful for making us better engineers and better people!! All the Best in the future!!
